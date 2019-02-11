@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: sandybrown 
+  }
+  
+  h1 {
+    background: white;
+  }
+  
+  .Nav li{
+    display: inline;
+    padding: 130px;
+    font-size: 20px
+  }
+  
